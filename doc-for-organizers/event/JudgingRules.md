@@ -28,7 +28,7 @@ To compute a test score, you multiple the CVSS by the multipliers and add the _b
 
 ## Common examples
 
-* Participant tampers a user name entered in the UI and it is reflected: Not an issue, it could have been done directly with the UI -> False positive, x0.5
+* Participant tampers a user name entered in the UI and it is reflected: Not an issue, it could have been done directly with the UI -> False positive, x0.2
 * Participant finds a business/functional case that makes the issue much worse than expected: innovative touch +4-5
 
 ### Case example
